@@ -86,6 +86,8 @@ You write your product knowledge once. Lore makes sure every developer's Claude 
 
 ### For PMs - Create the Lore
 
+Don't overthink it. Open Claude and say: *"Help me write a base.md for Lore - here's what our product does and what matters right now."* Or just copy the snippet below and fill it in.
+
 ```bash
 # Initialize a new lore in your GitHub org
 npx @teamlore/cli init my-company-lore
