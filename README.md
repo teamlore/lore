@@ -23,7 +23,7 @@ Write your product knowledge once. Every developer's Claude on your team gets it
 
 <br />
 
-<img width="700" alt="lore-architecture" src="https://via.placeholder.com/700x400/1a1a2e/e94560?text=📜+lore+architecture+diagram">
+<img width="700" alt="Lore - Product context layer for AI coding agents" src="./assets/banner.svg">
 
 <br />
 <br />
